@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+html{
+    background-image: url("./images/layered-waves.png");
+    background-position-y: bottom;
+    background-size: cover;
+    min-height: 100%;
+    background-position: bottom center;
+    max-width: 100%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+html{
+    background-image: url("./images/layered-waves.png");
+    background-position-y: bottom;
+    background-size: cover;
+    min-height: 100%;
+    background-position: bottom center;
+    max-width: 100%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+
+.hero-image{
+    width: 25rem;
+    height: 25rem;
+    border-radius:50%;
+    overflow: hidden;
+    /* margin-top:2rem;
+    margin-left: 8rem; */
+    border: 1rem solid #806198;
+    box-shadow: 0px 0px 30px 10px #9c9c9c;
+}
+
+.title-name{
+    font-size: 65px !important; 
+    font-weight: 700 !important;
+    color: black !important;
+}
+
+.title-tech{
+    font-size: 30px !important;
+    font-weight: 200;
+    margin-bottom: 0px !important;
+    color: #525252;
+}
+
+.title-info{
+    font-size: 18px;
+    font-weight: 200;
+    color: #525252;
+}
+
+.edu-icon{
+    max-width: 10rem;
+    height: auto;
+}

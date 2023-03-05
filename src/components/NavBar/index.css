@@ -1,0 +1,14 @@
+.navbar-hover  a:hover{
+    color: #806198;
+}
+
+.navbar-active{
+    border: 1.75px solid #806198;
+    border-radius: 30px;
+
+}
+
+.sticky-nav {
+    position: sticky;
+    top: 0;
+}
